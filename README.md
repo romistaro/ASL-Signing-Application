@@ -11,3 +11,8 @@ Python Opencv
 Run Main.java and follow prompts on screen
 
 if test file fails to open run FingerTrack.py Manually.
+
+
+
+
+MediaPipe Framework sampled from Murtaza Hassan.
